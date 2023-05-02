@@ -13,7 +13,7 @@
 	</tag>  
 	<tag>  
 		<name>sum</name>  
-		<tag-class>practice.MyCustomTagHandler</tag-class>  
+		<tag-class>practice.MyCustomTagHandlerSum</tag-class>  
 		<attribute>
 			<name>num1</name>
 			<required>true</required>
